@@ -1,0 +1,7 @@
+.gradle
+.idea
+build
+logs.txt
+*.DS_Store
+out
+bin
